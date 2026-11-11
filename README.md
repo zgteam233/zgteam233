@@ -31,13 +31,14 @@ Here are some ideas to get you started:
 
 你们最想看的应该是**这些项目**哈：
 
-- [**toText** | 字符画/turtle绘画](https://github.com/ZGTeam233/toText)
-- [**synthpp** | 8-bit风格演奏](https://github.com/ZGTeam233/synthpp)
-- [**WT01** | 朋友让我做的crack](https://github.com/ZGTeam233/WT01)
-- [**moneyless** | 记账本](https://github.com/ZGTeam233/moneyless)
-- [**Changed_Creatures** | 以下项目的分支](https://github.com/ZGTeam233/Changed_Creatures)
+- [**toText** | 字符画/turtle绘画](https://github.com/zgteam233/toText)
+- [**synthpp** | 8-bit风格演奏](https://github.com/zgteam233/synthpp)
+- [**WT01** | 朋友让我做的crack](https://github.com/zgteam233/WT01)
+- [**moneyless** | 记账本](https://github.com/zgteam233/moneyless)
+- [**Changed_Creatures** | 以下项目的分支](https://github.com/zgteam233/Changed_Creatures)
   - [Changed_Creatures 模组](https://github.com/EyroIceDragon/Changed_Creatures)
-- [**WIM** | "世界观隔离"机制](https://github.com/ZGTeam233/Worldview-Isolation-Mechanism)
+- [**WIM** | "世界观隔离"机制](https://github.com/zgteam233/WIM)
+- [**cumojian** | 未知伤亡皮肤](https://github.com/zgteam233/cumojian)
 
 链接放这了，**怕你们不会用**
 
