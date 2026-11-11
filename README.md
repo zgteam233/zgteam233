@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
 来的吧 ouo
 
-可以来看看我的**个人博客**哦: [https://zgteam233.github.io/furry](https://zgteam233.github.io/furry)
-
 ### 我要找项目!
 
 你们最想看的应该是**这些项目**哈：
@@ -51,7 +49,6 @@ up**高中生**，没多少时间，请**谅解**一下哈 awa
 - **QID** `qwsnzg6`
 - **微信** `wsnzg6_wechat`
 - **QQ群A**(**自己的**) `1124757834`
-- **QQ群** (**帮朋友宣群**) `1126164116` // 来自 **Evan**
 
 ### 也来看看我朋友的 GitHub
 - [**朋友A**](https://github.com/FurryHuiYao) // 来自 **晖曜**
