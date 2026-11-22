@@ -25,22 +25,6 @@ Here are some ideas to get you started:
 [*抖音*](https://www.douyin.com/user/MS4wLjABAAAAqQ86UBIuMHTXNLXL7z8BxuTXvRalcNXxxvY4zp7If4QilPxiRvrHIaRUYoiD-KxC) 
 来的吧 ouo
 
-### 我要找项目!
-
-你们最想看的应该是**这些项目**哈：
-
-- [**toText** | 字符画/turtle绘画](https://github.com/zgteam233/toText)
-- [**synthpp** | 8-bit风格演奏](https://github.com/zgteam233/synthpp)
-- [**moneyless** | 记账本](https://github.com/zgteam233/moneyless)
-- [**Changed_Creatures** | 以下项目的分支](https://github.com/zgteam233/Changed_Creatures)
-  - [Changed_Creatures 模组](https://github.com/EyroIceDragon/Changed_Creatures)
-- [**WIM** | "世界观隔离"机制](https://github.com/zgteam233/WIM)
-- [**cumojian** | 未知伤亡皮肤](https://github.com/zgteam233/cumojian)
-
-链接放这了，**怕你们不会用**
-
-### 最后
-
 up**高中生**，没多少时间，请**谅解**一下哈 awa
 
 欢迎来扩列啊:
